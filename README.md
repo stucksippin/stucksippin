@@ -49,15 +49,6 @@
 
   
 
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
 
 ## Codewars Stats
 <div align="center">
